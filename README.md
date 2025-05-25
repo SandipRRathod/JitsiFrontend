@@ -57,6 +57,7 @@ This is a web-based video conferencing application built with **Angular** for th
 * **Spring Boot** (Java)
 * **Jitsi Meet Embed API** (via iframe) (api geted from backend)
 * **AWS EC2** (self-hosted Jitsi server)
+* **Render** (backend hosting)
 
 ---
 
